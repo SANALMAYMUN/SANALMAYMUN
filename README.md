@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mert Ali Özbey</h1>
+<h1 align="center">https://hellx.live</h1>
 <p align="left"> <a href="https://twitter.com/hellxdev" target="blank"><img src="https://img.shields.io/twitter/follow/hellxdev?logo=twitter&style=for-the-badge" alt="hellxdev" /></a> </p>
 
 - 🔭 I’m currently working on **hellx.dev**
