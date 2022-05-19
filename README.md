@@ -1,7 +1,7 @@
 <h1 align="center">https://hellx.live</h1>
 <p align="left"> <a href="https://twitter.com/hellxdev" target="blank"><img src="https://img.shields.io/twitter/follow/hellxdev?logo=twitter&style=for-the-badge" alt="hellxdev" /></a> </p>
 
-- 🔭 I’m currently working on **hellx.dev**
+- 🔭 I’m currently working on **hellx.live**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
